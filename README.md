@@ -38,7 +38,7 @@ If you improve the app in any way a pull request would be very much appreciated 
 
 In the project directory, you can run:
 
-### `npm install --force`
+### `npm install --legacy-peer-deps`
 
 to install the dependencies.
 
